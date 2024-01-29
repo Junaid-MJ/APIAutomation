@@ -1,0 +1,16 @@
+[INFO ] 2024-01-23 15:44:41.667 [main] UserTests - ************ Creating User.... *************
+[INFO ] 2024-01-23 15:44:44.985 [main] UserTests - ************ User Created *************
+[INFO ] 2024-01-23 15:44:44.993 [main] UserTests - ************ Reading User Info *************
+[INFO ] 2024-01-23 15:44:46.727 [main] UserTests - ************ User Info is displayed *************
+[INFO ] 2024-01-23 15:44:46.729 [main] UserTests - ************ Deleting User.... *************
+[INFO ] 2024-01-23 15:44:48.322 [main] UserTests - ************  User Deleted *************
+[INFO ] 2024-01-23 15:44:48.324 [main] UserTests - ************ Updating User.... *************
+[INFO ] 2024-01-23 15:44:51.912 [main] UserTests - ************ User is Updated *************
+[INFO ] 2024-01-23 15:55:25.740 [main] UserTests - ************ Creating User.... *************
+[INFO ] 2024-01-23 15:55:29.056 [main] UserTests - ************ User Created *************
+[INFO ] 2024-01-23 15:55:29.059 [main] UserTests - ************ Reading User Info *************
+[INFO ] 2024-01-23 15:55:30.822 [main] UserTests - ************ User Info is displayed *************
+[INFO ] 2024-01-23 15:55:30.824 [main] UserTests - ************ Deleting User.... *************
+[INFO ] 2024-01-23 15:55:32.358 [main] UserTests - ************  User Deleted *************
+[INFO ] 2024-01-23 15:55:32.360 [main] UserTests - ************ Updating User.... *************
+[INFO ] 2024-01-23 15:55:35.885 [main] UserTests - ************ User is Updated *************

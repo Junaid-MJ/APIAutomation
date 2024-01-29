@@ -1,0 +1,18 @@
+[INFO ] 2024-01-24 13:13:52.275 [main] UserTests2 - ************ Creating User.... *************
+[INFO ] 2024-01-24 13:13:53.652 [main] UserTests2 - ************ Reading User Info *************
+[INFO ] 2024-01-24 13:13:53.689 [main] UserTests2 - ************ Deleting User.... *************
+[INFO ] 2024-01-24 13:13:53.707 [main] UserTests2 - ************ Updating User.... *************
+[INFO ] 2024-01-24 13:20:04.391 [main] UserTests2 - ************ Creating User.... *************
+[INFO ] 2024-01-24 13:20:05.215 [main] UserTests2 - ************ Reading User Info *************
+[INFO ] 2024-01-24 13:20:05.225 [main] UserTests2 - ************ Deleting User.... *************
+[INFO ] 2024-01-24 13:20:05.232 [main] UserTests2 - ************ Updating User.... *************
+[INFO ] 2024-01-24 13:32:50.863 [main] UserTests2 - ************ Creating User.... *************
+[INFO ] 2024-01-24 13:33:24.583 [main] UserTests2 - ************ Creating User.... *************
+[INFO ] 2024-01-24 13:35:30.278 [main] UserTests2 - ************ Creating User.... *************
+[INFO ] 2024-01-24 13:35:33.407 [main] UserTests2 - ************ User Created *************
+[INFO ] 2024-01-24 13:35:33.411 [main] UserTests2 - ************ Reading User Info *************
+[INFO ] 2024-01-24 13:35:34.540 [main] UserTests2 - ************ User Info is displayed *************
+[INFO ] 2024-01-24 13:35:34.542 [main] UserTests2 - ************ Deleting User.... *************
+[INFO ] 2024-01-24 13:35:35.774 [main] UserTests2 - ************  User Deleted *************
+[INFO ] 2024-01-24 13:35:35.775 [main] UserTests2 - ************ Updating User.... *************
+[INFO ] 2024-01-24 13:35:39.148 [main] UserTests2 - ************ User is Updated *************
